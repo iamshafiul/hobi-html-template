@@ -1,0 +1,204 @@
+/* Normal desktop :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header-area .main-menu ul li a {
+        padding: 20px 8px;
+    }
+    h2 {
+        font-size: 50px;
+    }
+    .services-box {
+        padding: 52px 20px;
+    }
+    .progress {
+        margin-bottom: 12px;
+    }
+    .skill-area h2 {
+        margin-bottom: 18px;
+    }
+    .clta-btn {
+        text-align: center;
+    }
+    .single-experience-box {
+        padding: 40px 12px;
+    }
+    .single-testimonial {
+        padding: 40px 9px;
+    }
+    .left-blog-item {
+        padding: 22px 0px 25px 27px;
+    }
+    .left-blog-title h3 {
+        line-height: 1.2;
+    }
+    .footer-right-content h6 {
+        line-height: 1.5;
+        font-size: 15px;
+    }
+}
+
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    h1 {
+        font-size: 45px;
+    }
+    .slider-content p {
+        padding-right: 45px;
+    }
+    .services-box {
+        padding: 52px 45px;
+    }
+    .team-menu {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .experience-area .section-title h2 {
+        padding: 0 25px;
+    }
+    .work-area .team-menu {
+        text-align: center;
+    }
+    .work-area .work-title {
+        text-align: center;
+    }
+    .clta-bg {
+        text-align: center;
+    }
+    .clta-btn {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    .single-experience-box {
+        padding: 40px 30px;
+    }
+    .positioning-img {
+        top: 0px;
+    }
+    #map {
+        margin-top: 50px;
+    }
+    .single-testimonial {
+        padding: 40px 18px;
+    }
+    .blog-content {
+        margin-bottom: 17px;
+    }
+}
+
+
+/* small mobile :320px. */
+
+@media (max-width: 767px) {
+    .slider-content p {
+        padding-right: 0px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .slider-btn .btn {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .about-area .section-title {
+        margin-bottom: 30px;
+    }
+    .about-area .section-title h2 {
+        font-size: 50px;
+    }
+    .about-btn .btn {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .skill-img {
+        margin-bottom: 20px;
+    }
+    h2 {
+        font-size: 50px;
+        margin-bottom: 0;
+    }
+    .experience-area .section-title h2 {
+        padding: 0;
+    }
+    .work-area .work-title {
+        text-align: center;
+    }
+    .team-menu {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .team-menu ul li {
+        margin: 10px 8px;
+    }
+    .work-area .col-sm-12 img {
+        width: 100%;
+    }
+    .clta-bg {
+        text-align: center;
+    }
+    .clta-btn {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    .clta-bg .section-title h2 {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+    .education-area .section-title {
+        margin-bottom: 20px;
+    }
+    .education-right-img {
+        width: 100%;
+    }
+    .education-right-img img {
+        width: 100%;
+    }
+    .positioning-img {
+        width: 100%;
+    }
+    .team-area .team-img {
+        margin-top: 30px;
+    }
+    #map {
+        margin-top: 50px;
+        width: 100%;
+    }
+    .single-testimonial {
+        padding: 40px 18px;
+    }
+    .blog-area .section-title {
+        margin-bottom: 30px;
+    }
+    .blog-content {
+        margin-bottom: 17px;
+    }
+    .left-blog-item {
+        padding: 29px 0px 20px 14px;
+    }
+    .footer-right-title h3 {
+        color: #fff;
+        font-size: 20px;
+        line-height: 1.4;
+    }
+}
+
+
+/* Large Mobile :480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 450px
+    }
+}
+
+@media (max-width: 450px) {
+    .about-area .section-title h2 {
+        font-size: 43px;
+    }
+}

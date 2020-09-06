@@ -1,0 +1,22 @@
+{
+    "name": "monu-home",
+    "version": "1.0.0",
+    "description": "A Single Page Fully Responsive Website",
+    "main": "index.html",
+    "repository": "https://github.com/shafiulmmc/cuda-single-page-portfolio.git",
+    "author": "Shafiul Alam <shafiul.primitivesolution@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "animate.css": "^3.7.2",
+        "bootstrap": "^4.4.1",
+        "counterup": "^1.0.2",
+        "font-awesome": "^4.7.0",
+        "magnific-popup": "^1.1.0",
+        "mixitup": "^3.3.1",
+        "popper.js": "^1.16.1",
+        "slick-slider": "^1.8.2",
+        "waypoints": "^4.0.1",
+        "wow.js": "^1.2.2"
+    }
+}
