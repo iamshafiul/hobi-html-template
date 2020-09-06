@@ -2,6 +2,9 @@
 resources/components/
 res/
 
+# Yarn
+yarn.lock
+
 # globs
 Makefile.in
 *.userprefs
